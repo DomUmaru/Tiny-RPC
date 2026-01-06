@@ -1,0 +1,5 @@
+server:
+  port: 8081 # Spring Boot Web 端口
+rpc:
+  server:
+    port: 9999 # Netty 端口
